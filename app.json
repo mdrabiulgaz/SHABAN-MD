@@ -1,8 +1,8 @@
 {
-  "name": "SHABAN-MD",
-  "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
+  "name": "_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_",
+  "description": "Javascript WhatsApp bot made by _❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_",
   "logo": "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg",
-  "keywords": ["SHABAN-MD"],
+  "keywords": ["_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -15,7 +15,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name",
       "required": false,
-      "value": "𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍"
+      "value": "_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_"
     }, 
 
     "OWNER_NUMBER": {
@@ -39,13 +39,13 @@
     "MODE": {
       "description": "Select Your Bot Work Type Public-Private-Inbox-Group",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     
     "ALWAYS_ONLINE": {
       "description": "Make It true If Want Always Online",
       "required": true,
-      "value": "false"  
+      "value": "true"  
     },   
    
     "AUTO_STATUS_SEEN": {
@@ -75,31 +75,31 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW Sʜᴀʙᴀɴ-Mᴅ 𓅓*"
+      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW _❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_ 𓅓*"
     }, 
 
     "BOT_NAME": {
       "description": "Type Here The Bot Name",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_"
     },
     
     "ANTI_LINK": {
       "description": "Make It true If You Want Bot Auto Remove link For Group",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
     
     "ADMIN_EVENTS": {
       "description": "Make It true If Want Know Who Promote Or Demote A Member",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
 
     "WELCOME": {
       "description": "Make It true If Want Goodbye And Welcome Message In Groups",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
      
     "ANTI_CALL": {
@@ -123,13 +123,13 @@
     "AUTO_REACT": {
       "description": "Make It true If You Want React On Every Message",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
     
     "CUSTOM_REACT": {
       "description": "Make It true If You Want Hearts Reactions",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
     
     "CUSTOM_REACT_EMOJIS": {
@@ -153,7 +153,7 @@
     "READ_MESSAGE": {
       "description": "Make It true If You Want Bot Read Your All Measage Just Now",
       "required": true,
-      "value": "false"
+      "value": "true"
     }
   },
   "buildpacks": [
